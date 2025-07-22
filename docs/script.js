@@ -99,7 +99,7 @@ function initContactForm() {
                 `Best regards,\n${name}`
             );
             
-            const mailtoLink = `mailto:tony@intuitivemovement.biz?subject=${subject}&body=${body}`;
+            const mailtoLink = `mailto:tonygardiner82@gmail.com?subject=${subject}&body=${body}`;
             
             // Open email client
             window.location.href = mailtoLink;
